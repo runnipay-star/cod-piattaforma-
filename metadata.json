@@ -1,0 +1,5 @@
+{
+  "name": "2- Piattaforma COD Master",
+  "description": "Una piattaforma completa per gestire le vendite di prodotti fisici con pagamento alla consegna (COD), che copre i ruoli di admin, manager, affiliati, fornitori, call center e logistica.",
+  "requestFramePermissions": []
+}
